@@ -8,6 +8,7 @@ class AzureFirstDeploymentApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//
 	}
 
 }
