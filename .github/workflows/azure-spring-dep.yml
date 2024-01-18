@@ -32,7 +32,7 @@ jobs:
         with:
           azure-subscription: ${{ env.AZURE_SUBSCRIPTION }}
           action: Deploy
-          service-name: spring-blog
-          app-name: spring-blog
+          service-name: spring-app-grig-test5554445
+          app-name: grig-app-5554-dep-test
           use-staging-deployment: false
           package: ${{ env.ASC_PACKAGE_PATH }}/**/*.jar
